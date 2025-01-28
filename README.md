@@ -1,4 +1,3 @@
-# tech_stocks.github.io
-
+# Tech Nachrichten
 
 ### Tech_news 
